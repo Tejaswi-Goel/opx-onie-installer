@@ -73,6 +73,8 @@ blueprint files.
   <xi:include href="vendor/dellemc/s6010/opx_hw_stretch.xml"/>
   <xi:include href="vendor/dellemc/z9100/opx_hw_stretch.xml"/>
   <xi:include href="vendor/dellemc/z9264f/opx_hw_stretch.xml"/>
+  <xi:include href="vendor/dellemc/s5248f/opx_hw_stretch.xml"/>
+  <xi:include href="vendor/dellemc/s5296f/opx_hw_stretch.xml"/>
   <xi:include href="vendor/dell/vm/opx_stretch.xml"/>
 
   <!-- Scripts to run after installation of packages is complete -->
